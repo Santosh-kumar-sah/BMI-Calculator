@@ -5,8 +5,6 @@ A simple project using html5,css and JS
 
 A simple and modern Body Mass Index (BMI) calculator built using **HTML**, **CSS**, and **JavaScript**. This responsive web app allows users to input their height and weight to calculate their BMI and receive a health category based on the result.
 
-![BMI Calculator Screenshot](screenshot.png) <!-- Add a screenshot named screenshot.png in the repo -->
-
 ---
 
 ## 🚀 Features
@@ -19,11 +17,8 @@ A simple and modern Body Mass Index (BMI) calculator built using **HTML**, **CSS
 
 ---
 
-## 📸 Demo
 
-Try it live by opening the `index.html` file in your browser.
 
----
 
 ## 🛠️ Tech Stack
 
